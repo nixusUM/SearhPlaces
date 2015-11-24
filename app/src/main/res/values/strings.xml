@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Поиск мест</string>
+    <string name="forClick">ДАЛЕЕ</string>
+    <string name="searchAct">Search</string>
+    <string name="title_activity_maps">TaksiTest</string>
+    <string name="search_menu_search_text">ssss</string>
+    <string name="search_menu_query_hint_text">sssddds</string>
+    <string name="dataName">"Переход: "</string>
+    <string name="suggestHint">Вводите название</string>
+</resources>

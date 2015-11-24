@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="toolbar_elevation">4dp</dimen>
+    <dimen name="titleToolbar">25dp</dimen>
+    <dimen name="editTxtHeight">40dp</dimen>
+    <dimen name="fabRightMargin">30dp</dimen>
+    <dimen name="fabBottomMargin">40dp</dimen>
+    <dimen name="mapBottomMargin">65dp</dimen>
+    <dimen name="editTxtSize">20dp</dimen>
+    <dimen name="imgBtnWidth">37dp</dimen>
+    <dimen name="textSearch">15sp</dimen>
+</resources>
